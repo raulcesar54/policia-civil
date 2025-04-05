@@ -5,6 +5,7 @@
 - Email: Raulcesar54@hotmail.com
 - Linkedin: https://www.linkedin.com/in/raul-dev-front-end/ 
 - Edital: Nº 002/2025/SEPLAG
+- Inscrição: 9253
 
 
 # Instação
