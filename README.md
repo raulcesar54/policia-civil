@@ -1,12 +1,21 @@
-# React + Vite
+# React Project
+#### FIGMA: https://www.figma.com/design/08sJT1Qk3a3AGYgD5dPxOe/Policia-civil-teste?node-id=0-1&p=f&t=3LMaiHDrnShGb74a-0
+#### Informações da inscrição
+- Raul Cesar coelho de souza ferreira
+- Email: Raulcesar54@hotmail.com
+- Linkedin: https://www.linkedin.com/in/raul-dev-front-end/ 
+- Edital: Nº 002/2025/SEPLAG
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+# Instação
+Instalar as dependencias
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+`` npm install ``
 
-## Expanding the ESLint configuration
+Rodar o projeto
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+`` npm run de ``
+
+# Informações extras
+Esse projeto tem o foca do mobile first, tendo em vista que hoje a maior parte dos acessos é feito por navegadores portateis.
+Figma criado para apoio durante o desenvolvimento.
