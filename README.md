@@ -1,22 +1,25 @@
-# React Project
-#### FIGMA: https://www.figma.com/design/08sJT1Qk3a3AGYgD5dPxOe/Policia-civil-teste?node-id=0-1&p=f&t=3LMaiHDrnShGb74a-0
-#### Informações da inscrição
-- Raul Cesar coelho de souza ferreira
-- Email: Raulcesar54@hotmail.com
-- Linkedin: https://www.linkedin.com/in/raul-dev-front-end/ 
-- Edital: Nº 002/2025/SEPLAG
-- Inscrição: 9253
+# Projeto Polícia Civil
+
+Este é um projeto desenvolvido com foco em **mobile first**, considerando que a maior parte dos acessos atualmente são realizados por dispositivos móveis. 
+O layout foi baseado no Figma disponibilizado abaixo e seguiu as diretrizes do edital Nº 002/2025/SEPLAG.
+
+### Design no Figma  
+[Figma - Polícia Civil (Protótipo)](https://www.figma.com/design/08sJT1Qk3a3AGYgD5dPxOe/Policia-civil-teste?node-id=0-1&p=f&t=3LMaiHDrnShGb74a-0)
+
+## Informações da Inscrição
+
+- **Nome:** Raul Cesar Coelho de Souza Ferreira  
+- **Email:** raulcesar54@hotmail.com  
+- **LinkedIn:** [raul-dev-front-end](https://www.linkedin.com/in/raul-dev-front-end/)  
+- **Edital:** Nº 002/2025/SEPLAG  
+- **Inscrição:** 9253  
 
 
-# Instação
-Instalar as dependencias
+## Instalação e Execução
 
-`` npm install ``
+1. Instale as dependências do projeto:
 
-Rodar o projeto
-
-`` npm run dev ``
-
-# Informações extras
-Esse projeto tem o foca do mobile first, tendo em vista que hoje a maior parte dos acessos é feito por navegadores portateis.
-Figma criado para apoio durante o desenvolvimento.
+```bash
+npm install
+npm run dev
+```
