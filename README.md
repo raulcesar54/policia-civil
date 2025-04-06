@@ -15,7 +15,7 @@ Instalar as dependencias
 
 Rodar o projeto
 
-`` npm run de ``
+`` npm run dev ``
 
 # Informações extras
 Esse projeto tem o foca do mobile first, tendo em vista que hoje a maior parte dos acessos é feito por navegadores portateis.
