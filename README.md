@@ -1,4 +1,5 @@
 # Projeto Polícia Civil
+<img src="https://github.com/user-attachments/assets/ea89e72f-5562-4c2f-b011-4d4f2c248205" width="200" />
 
 Este é um projeto desenvolvido com foco em **mobile first**, considerando que a maior parte dos acessos atualmente são realizados por dispositivos móveis. 
 O layout foi baseado no Figma disponibilizado abaixo e seguiu as diretrizes do edital Nº 002/2025/SEPLAG.
